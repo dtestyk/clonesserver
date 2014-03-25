@@ -1,0 +1,27 @@
+{
+  "name": "clones_server",
+  "version": "0.0.1",
+  "description": "Send message to random client.",
+  "main": "clones_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dtestyk:gnostopol55@github.com/dtestyk/clones_server.git"
+  },
+  "keywords": [
+    "clone",
+    "message"
+  ],
+  "author": "dtestyk",
+  "dependencies": {
+    "options": ">= 0.0.5",
+    "ws": ">= 0.4.26"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtestyk/clones_server/issues"
+  },
+  "homepage": "https://github.com/dtestyk/clones_server",
+}
