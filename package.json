@@ -19,6 +19,9 @@
     "options": ">= 0.0.5",
     "ws": ">= 0.4.26"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dtestyk/clones_server/issues"
